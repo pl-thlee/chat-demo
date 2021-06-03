@@ -1,0 +1,25 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run build",
+    "start": "npm install and npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "and": "0.0.3",
+    "connect-redis": "^3.4.1",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "http": "0.0.0",
+    "nodemon": "^1.18.11",
+    "npm": "^7.15.1",
+    "socket.io": "^2.2.0",
+    "start": "^5.1.0"
+  }
+}
